@@ -1,14 +1,22 @@
 # Long-Form YouTube Scriptwriting Portfolio
 
-This portfolio contains research-backed long-form YouTube script samples focused on retention, pacing, open loops, narrative structure, and spoken delivery.
+This public hub contains research-backed long-form YouTube script samples plus two commercial offers currently available for inquiry.
 
-## Services available
+## Offer 1 — Documentary & Long-Form YouTube Production
 
-I currently offer documentary and long-form YouTube production packages from **$75 to $350**, including research-backed scripts, source notes, editor/B-roll cues, and optional narration/SRT delivery.
+Packages from **$75 to $350** for research-backed scripts, source notes, editor/B-roll cues, and optional narration/SRT delivery.
 
-See **[SERVICES.md](SERVICES.md)** for package scope, pricing, buyer intake, and how to start a project inquiry.
+See **[SERVICES.md](SERVICES.md)** for scope, pricing, buyer intake, and how to start a project inquiry.
 
-## Samples
+## Offer 2 — Narrative Content Studio 0.9.0 Early Access
+
+A Windows 10/11 x64 local-first workspace for Story Bible, structure, writing, canon/continuity review, timeline, snapshots, backup/restore, EN/VI workflows, and controlled AI-assisted review.
+
+Current Early Access price: **349,000 VND one-time**.
+
+See **[NCS_EARLY_ACCESS.md](NCS_EARLY_ACCESS.md)** for qualification, package contents, limitations, and how to register an Early Access inquiry while live checkout activation is pending.
+
+## Script samples
 
 ### Why Concorde Was Too Fast to Survive
 Tech/science documentary sample built around a fast hook, escalating business constraints, and a clear payoff.
@@ -24,13 +32,16 @@ Business/founder turnaround sample focused on tension, financial stakes, structu
 - Open loops only when they have a clear payoff.
 - Remove generic AI phrasing, repetition, and filler.
 - Adapt structure and voice to the creator/channel brief.
+- Do not fabricate sources, client history, channel metrics, or software claims.
 
-## Start a project inquiry
+## Start an inquiry
 
-Open a new issue in this repository with the title:
+For a script/production project, open an issue titled:
 
 `Project inquiry — <your topic>`
 
-Please do not post confidential information in a public issue. Initial scope can be discussed publicly, then sensitive material should move to a private channel.
+For Narrative Content Studio, open an issue titled:
 
-These are portfolio samples created to demonstrate writing approach and structure.
+`NCS Early Access inquiry — <your use case>`
+
+Do not post confidential information, passwords, customer data, unreleased story material, or identity documents in a public issue.
