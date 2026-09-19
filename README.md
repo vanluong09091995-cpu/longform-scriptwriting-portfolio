@@ -1,64 +1,65 @@
-# Creator Production & Roblox Portfolio
+# Research-Led YouTube Documentary Writing
 
-This is a proof-first public portfolio for two services I can currently support with concrete work samples: **long-form writing** and **Roblox animation / UI**. Public samples and internal capability proof are labeled accurately; I do not present internal work as paid-client history.
+I write long-form YouTube scripts for documentary, business, technology and explanation-heavy channels — with the research, narrative structure and editor handoff built into the script.
 
-## Review the proof first
+## Start with the work
 
-### Long-form writing
+### [Concorde Was a Better Machine Than a Business](SAMPLE_01_CONCORDE_RETENTION_SCRIPT.md)
 
-- **[Why Concorde Was Too Fast to Survive](SAMPLE_01_CONCORDE_RETENTION_SCRIPT.md)** — tech/science documentary sample built around a fast hook, escalating constraints, and a clear payoff.
-- **[The Year LEGO Nearly Broke Its Own Business](SAMPLE_02_LEGO_TURNAROUND_SCRIPT.md)** — business turnaround sample focused on stakes, cause/effect, simplification, and narrative progression.
+A 9–11 minute aviation/business documentary sample built around one question: if Concorde worked technically, why did the airline business around it disappear?
 
-These samples are useful if you need research-heavy YouTube scripts, documentary structure, narration-ready writing, or editorial transformation.
+The sample includes:
+- a sourced narrative rather than generic article prose;
+- editor-facing visual cues where they help the story;
+- a primary/institutional source pack;
+- a clear separation between documented facts and the script's commercial interpretation.
 
-### Roblox animation / Moon Animator
+If this is close to the level and structure you need, the project can be scoped from there.
 
-I work in Roblox Studio / Moon Animator with R6, R15, and usable custom rigs. Current internal capability proof includes a **17.7-second custom wolf-boss reel** showing attack weight transfer, full-body roll/recovery, grounded contact/settle, and custom-rig animation workflow.
+## What I can deliver
 
-That reel is **internal project footage, not paid-client work**. It is available for scope-fit inquiries.
+### Basic — $75
+- 1,200–1,500 word script
+- Hook + section structure
+- Editor / B-roll notes
+- 1 revision
 
-See **[ROBLOX_SERVICES.md](ROBLOX_SERVICES.md)** for package boundaries, launch pricing, exclusions, and required project details.
+### Standard — $175
+- 1,800–2,500 word script
+- Research notes + source links
+- Hook, pacing and payoff structure
+- Editor / B-roll notes
+- 2 revisions
 
-## Services currently open for inquiry
+### Premium — $350
+- 2,000–3,000 word documentary script
+- Research/source pack
+- Retention structure + editor cues
+- Optional narration-ready handoff / SRT when scoped
+- 2 revisions
 
-### Documentary & long-form YouTube writing
+Full package boundaries are in [SERVICES.md](SERVICES.md).
 
-- **Basic — $75:** 1,200–1,500 words, hook/chapter structure, editor/B-roll notes, 1 revision.
-- **Standard — $175:** 1,800–2,500 words, research notes/source links, retention structure, editor/B-roll notes, 2 revisions.
-- **Premium — $350:** 2,000–3,000 words, source pack, editor cues, optional approved-preset narration/SRT handoff, technical QA receipt, 2 revisions.
+## Best fit
 
-Full scope: **[SERVICES.md](SERVICES.md)**.
+This service is strongest for:
+- technology and engineering stories;
+- business failures, turnarounds and unusual companies;
+- creator-led educational documentaries;
+- topics where facts need to be checked before the narrative is written.
 
-### Roblox animation & UI
+I do not invent client results, channel metrics, sources or expertise. If a topic needs specialist credentials or sources I cannot verify, I will flag that before the project starts.
 
-Animation launch pricing starts at **$20 / $60 / $120**. UI packages currently target **$25 / $65 / $125**. Exact scope is confirmed before work begins.
+## How a project starts
 
-Full scope: **[ROBLOX_SERVICES.md](ROBLOX_SERVICES.md)**.
+Open a **Project inquiry** and include:
+- topic and target audience;
+- target duration;
+- reference channels or style;
+- deadline;
+- must-use sources;
+- preferred package or budget.
 
-### Narrative Content Studio 0.9.0 Early Access
+The inquiry template is designed to get enough information for a real scope decision rather than a generic sales conversation.
 
-Windows 10/11 x64 local-first writing workspace for Story Bible, structure, canon/continuity review, timeline, snapshots, EN/VI workflows, and controlled AI-assisted review.
-
-Current Early Access price: **349,000 VND one-time**. Live checkout activation is still pending, so use the inquiry route rather than assuming payment is available.
-
-Details: **[NCS_EARLY_ACCESS.md](NCS_EARLY_ACCESS.md)**.
-
-## How I work
-
-- Use reliable and preferably primary sources.
-- Put the hook and useful information before filler.
-- Keep factual claims source-traceable.
-- Adapt structure and tone to the buyer brief.
-- Use original Roblox implementation rather than copied creative assets.
-- Do not fabricate client history, performance metrics, reviews, sources, or software claims.
-- Confirm scope, compatibility risks, and exclusions before delivery.
-
-## Start an inquiry
-
-Opening an inquiry does **not** require payment.
-
-- **Long-form writing:** choose the **Project inquiry** template and include topic, target audience, duration, references, deadline, and preferred package.
-- **Roblox:** choose the **Roblox service inquiry** template and include rig/UI state, exact deliverables, target duration, deadline, and expected weekly volume if relevant.
-- **NCS:** choose the **NCS Early Access inquiry** template.
-
-Use public issues only for non-confidential scope information. Do not post passwords, credentials, private game files, customer data, identity documents, or unreleased proprietary material.
+Opening an inquiry does not require payment. Do not post confidential material, passwords, customer data or unreleased proprietary files in a public issue.
