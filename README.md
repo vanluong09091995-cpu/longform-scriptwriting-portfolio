@@ -1,57 +1,64 @@
 # Creator Production & Roblox Portfolio
 
-This public hub contains research-backed long-form YouTube script samples plus commercial service offers currently available for inquiry.
+This is a proof-first public portfolio for two services I can currently support with concrete work samples: **long-form writing** and **Roblox animation / UI**. Public samples and internal capability proof are labeled accurately; I do not present internal work as paid-client history.
 
-## Offer 1 — Roblox Animation & UI
+## Review the proof first
 
-Scoped Roblox Studio / Moon Animator work for R6, R15, custom-rig animation, animation QA/polish, and Roblox UI implementation/QA.
+### Long-form writing
 
-Launch animation test pricing starts at **$20 / $60 / $120**. UI packages currently target **$25 / $65 / $125**, with exact scope confirmed before work begins.
+- **[Why Concorde Was Too Fast to Survive](SAMPLE_01_CONCORDE_RETENTION_SCRIPT.md)** — tech/science documentary sample built around a fast hook, escalating constraints, and a clear payoff.
+- **[The Year LEGO Nearly Broke Its Own Business](SAMPLE_02_LEGO_TURNAROUND_SCRIPT.md)** — business turnaround sample focused on stakes, cause/effect, simplification, and narrative progression.
 
-See **[ROBLOX_SERVICES.md](ROBLOX_SERVICES.md)** for package boundaries, buyer requirements, and the Roblox inquiry route.
+These samples are useful if you need research-heavy YouTube scripts, documentary structure, narration-ready writing, or editorial transformation.
 
-## Offer 2 — Documentary & Long-Form YouTube Production
+### Roblox animation / Moon Animator
 
-Packages from **$75 to $350** for research-backed scripts, source notes, editor/B-roll cues, and optional narration/SRT delivery.
+I work in Roblox Studio / Moon Animator with R6, R15, and usable custom rigs. Current internal capability proof includes a **17.7-second custom wolf-boss reel** showing attack weight transfer, full-body roll/recovery, grounded contact/settle, and custom-rig animation workflow.
 
-See **[SERVICES.md](SERVICES.md)** for scope, pricing, buyer intake, and how to start a project inquiry.
+That reel is **internal project footage, not paid-client work**. It is available for scope-fit inquiries.
 
-## Offer 3 — Narrative Content Studio 0.9.0 Early Access
+See **[ROBLOX_SERVICES.md](ROBLOX_SERVICES.md)** for package boundaries, launch pricing, exclusions, and required project details.
 
-A Windows 10/11 x64 local-first workspace for Story Bible, structure, writing, canon/continuity review, timeline, snapshots, backup/restore, EN/VI workflows, and controlled AI-assisted review.
+## Services currently open for inquiry
 
-Current Early Access price: **349,000 VND one-time**.
+### Documentary & long-form YouTube writing
 
-See **[NCS_EARLY_ACCESS.md](NCS_EARLY_ACCESS.md)** for qualification, package contents, limitations, and how to register an Early Access inquiry while live checkout activation is pending.
+- **Basic — $75:** 1,200–1,500 words, hook/chapter structure, editor/B-roll notes, 1 revision.
+- **Standard — $175:** 1,800–2,500 words, research notes/source links, retention structure, editor/B-roll notes, 2 revisions.
+- **Premium — $350:** 2,000–3,000 words, source pack, editor cues, optional approved-preset narration/SRT handoff, technical QA receipt, 2 revisions.
 
-## Script samples
+Full scope: **[SERVICES.md](SERVICES.md)**.
 
-### Why Concorde Was Too Fast to Survive
-Tech/science documentary sample built around a fast hook, escalating business constraints, and a clear payoff.
+### Roblox animation & UI
 
-### The Year LEGO Nearly Broke Its Own Business
-Business/founder turnaround sample focused on tension, financial stakes, structural simplification, and a concise ending payoff.
+Animation launch pricing starts at **$20 / $60 / $120**. UI packages currently target **$25 / $65 / $125**. Exact scope is confirmed before work begins.
 
-## Working style
+Full scope: **[ROBLOX_SERVICES.md](ROBLOX_SERVICES.md)**.
 
-- Research from reliable and preferably primary sources.
-- Hook first; context only after the viewer has a reason to stay.
-- Narration-ready sentences rather than article prose.
-- Original Roblox implementation rather than copied creative assets.
-- Remove generic AI phrasing, repetition, and filler.
-- Adapt structure and voice to the creator/channel brief.
-- Do not fabricate sources, client history, channel metrics, reviews, or software claims.
+### Narrative Content Studio 0.9.0 Early Access
+
+Windows 10/11 x64 local-first writing workspace for Story Bible, structure, canon/continuity review, timeline, snapshots, EN/VI workflows, and controlled AI-assisted review.
+
+Current Early Access price: **349,000 VND one-time**. Live checkout activation is still pending, so use the inquiry route rather than assuming payment is available.
+
+Details: **[NCS_EARLY_ACCESS.md](NCS_EARLY_ACCESS.md)**.
+
+## How I work
+
+- Use reliable and preferably primary sources.
+- Put the hook and useful information before filler.
+- Keep factual claims source-traceable.
+- Adapt structure and tone to the buyer brief.
+- Use original Roblox implementation rather than copied creative assets.
+- Do not fabricate client history, performance metrics, reviews, sources, or software claims.
+- Confirm scope, compatibility risks, and exclusions before delivery.
 
 ## Start an inquiry
 
-For Roblox work, open an issue with the **Roblox service inquiry** template.
+Opening an inquiry does **not** require payment.
 
-For a script/production project, open an issue titled:
+- **Long-form writing:** choose the **Project inquiry** template and include topic, target audience, duration, references, deadline, and preferred package.
+- **Roblox:** choose the **Roblox service inquiry** template and include rig/UI state, exact deliverables, target duration, deadline, and expected weekly volume if relevant.
+- **NCS:** choose the **NCS Early Access inquiry** template.
 
-`Project inquiry — <your topic>`
-
-For Narrative Content Studio, open an issue titled:
-
-`NCS Early Access inquiry — <your use case>`
-
-Do not post confidential information, passwords, customer data, unreleased proprietary material, or identity documents in a public issue.
+Use public issues only for non-confidential scope information. Do not post passwords, credentials, private game files, customer data, identity documents, or unreleased proprietary material.
