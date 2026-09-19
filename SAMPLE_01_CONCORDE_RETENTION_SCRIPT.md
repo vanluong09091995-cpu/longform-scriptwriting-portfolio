@@ -1,7 +1,8 @@
-# Concorde Was a Better Machine Than a Business
+# FLAGSHIP SAMPLE V3 — Concorde Was a Better Machine Than a Business
 
 **Format:** 9–11 minute YouTube documentary  
 **Category:** aviation / technology / business  
+**Purpose:** portfolio sample for research-led documentary writing
 
 ---
 
@@ -117,9 +118,9 @@ This is why the usual story — that one crash killed Concorde — is unsatisfyi
 
 **[VISUAL]** Split screen: Concorde on one side; busy subsonic widebody network, maintenance and gates on the other.
 
-Concorde never faced another scheduled passenger aircraft that was faster.
+Concorde did have a faster supersonic passenger rival on paper: the Soviet Tu-144. Smithsonian records the Tu-144 at Mach 2.15 versus Concorde at Mach 2.04, while NASA records its passenger service as brief, ending in 1978 after 102 passenger flights.
 
-What beat it was the operating advantage of being ordinary.
+What ultimately separated Concorde from that short-lived rival — and what later beat Concorde itself — was the operating advantage of being ordinary.
 
 Subsonic airliners could carry more passengers, serve a far wider range of routes and belong to fleets large enough to support global maintenance and parts networks. Airlines could move them between markets, replace them with newer models and spread fixed costs across far more seats and flights.
 
@@ -137,7 +138,7 @@ Over time, those quieter advantages became decisive.
 
 Today, Concorde sits in museums as evidence that the technology worked.
 
-It carried paying passengers faster than any scheduled airliner before or since. It made a seven-hour journey feel like a different category of travel and turned supersonic flight from a military achievement into something people could buy a ticket for.
+It carried paying passengers at roughly twice the speed of sound for more than a quarter-century. It made a seven-hour journey feel like a different category of travel and turned sustained supersonic airline service into something people could buy a ticket for.
 
 Its weakness was not that it failed to deliver the product.
 
@@ -153,17 +154,20 @@ It also proved that arriving early is not the same as becoming normal.
 
 ## Research/source pack
 
-1. **[British Airways — Celebrating Concorde](https://hotline.britishairways.com/content/information/about-ba/history-and-heritage/celebrating-concorde)**  
+1. **British Airways — Celebrating Concorde**  
    Used for BA service history, Mach 2 cruise speed, altitude, 100-seat capacity, fuel-consumption specification and final scheduled BA commercial flight.
 
-2. **[Smithsonian National Air and Space Museum — Concorde, Fox Alpha, Air France](https://airandspace.si.edu/collection-objects/concorde-fox-alpha-air-france/nasm_A20030139000)**  
+2. **Smithsonian National Air and Space Museum — Concorde, Fox Alpha, Air France**  
    Used for route contraction, later load-factor context, average round-trip ticket price, rising operating costs and parts difficulty.
 
-3. **[Smithsonian National Air and Space Museum — What Happened to the Concordes?](https://airandspace.si.edu/stories/editorial/what-happened-concordes)**  
-   Used as secondary institutional background on operating cost, noise constraints and fleet history.
+3. **Smithsonian National Air and Space Museum — What Happened to the Concordes?**  
+   Used as secondary institutional background on operating cost, noise constraints and fleet history, and for the Tu-144/Concorde Mach comparison that prevents an incorrect fastest-airliner superlative.
 
-4. **[France BEA — Final report / investigation page for Air France Flight 4590](https://bea.aero/en/investigation-reports/notified-events/detail/accident-to-the-concorde-registered-f-btsc-operated-by-air-france-occured-on-07-25-00-at-gonesse)**  
+4. **France BEA — Final report on Air France Flight 4590, 25 July 2000**  
    Used for the accident sequence and casualty figures.
+
+5. **NASA — Tu-144LL / Tu-144 Development History**  
+   Used for Tu-144 passenger-service history, including the 1977 start and 1978 end after 102 passenger flights.
 
 ### Editorial standard used in this sample
 The crash is treated as a major shock, not a single-cause explanation. Economic conclusions are separated from factual accident findings, and numerical claims are limited to figures supported by the source pack.
