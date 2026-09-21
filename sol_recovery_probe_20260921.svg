@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200">
+<rect width="100%" height="100%" fill="white"/>
+<text id="out" x="20" y="40" font-size="18">CUA_SVG_WAIT</text>
+<script><![CDATA[
+(async()=>{
+ const el=document.getElementById('out');
+ try{
+  const r=await fetch('http://127.0.0.1:10789/api/v1/tools/call',{
+   method:'POST',
+   headers:{'Content-Type':'application/json'},
+   body:JSON.stringify({name:'automation_safety',arguments:{operation:'status'}})
+  });
+  const t=await r.text();
+  document.title='CUA_SVG_'+r.status;
+  el.textContent='HTTP '+r.status+' '+t.slice(0,500);
+ }catch(e){
+  document.title='CUA_SVG_ERR';
+  el.textContent='ERR '+String(e);
+ }
+})();
+]]></script>
+</svg>
